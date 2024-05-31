@@ -26,7 +26,7 @@ V_TEXT = f"""
 BOT_NAME = "Stark AntiSpam"
 
 LOG_CHANNEL = "StarkAntiSpamErrors"
-MONGO_URL = "mongodb+srv://starkai:starkai@cluster0.yxr0olj.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = ""
 mongo = pymongo.MongoClient(MONGO_URL)
 
 #------------- AntiSpam ---------------#
@@ -44,14 +44,14 @@ nuditydb = nudityhub["TOKENS"]
 
 API_URL = "https://antispam.marvelcloudsolutions.tech/"
 
-API_KEY = "sathishzus"
-ADMIN_API_KEY = "bb6d95bb-dd1b-4bca-9494-ff47b10c6149"
+API_KEY = ""
+ADMIN_API_KEY = ""
 
 API_ID = "15037283"
 API_HASH = "7af9d761267bf6b81ed07f942d87127f"
-BOT_TOKEN = "6176049894:AAEe9QO_sJtOp5wjYLYPZKEYx4hglifZjjo"
+BOT_TOKEN = ""
 
-UPLOAD_TOKEN = "5602157150:AAHmvH-PQWUedKZVpXLlW0m3ClPzgABWtjw"
+UPLOAD_TOKEN = ""
 
 upapp = Client("UPLOADBOT",api_id=API_ID,api_hash=API_HASH,bot_token=UPLOAD_TOKEN)
 
