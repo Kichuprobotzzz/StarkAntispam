@@ -3,6 +3,7 @@
 This Telegram Antispam Bot is designed to help you manage and moderate your Telegram groups by automatically detecting and handling spam messages.
 
 # Telegram Bot - [Stark AntiSpam Bot](https://t.me/StarkAntiSpamBot)
+# API Repo - [Click Here](https://github.com/sathishzuss/StarkAntispamAPI)
 
 ## Features
 
