@@ -2,6 +2,8 @@
 
 This Telegram Antispam Bot is designed to help you manage and moderate your Telegram groups by automatically detecting and handling spam messages.
 
+# Telegram Bot - [Stark AntiSpam Bot](https://t.me/StarkAntiSpamBot)
+
 ## Features
 
 - **Clone Detection**: Detects cloned messages within the group to prevent spamming.
@@ -24,8 +26,6 @@ git clone https://github.com/your_username/telegram-antispam-bot.git
 cd telegram-antispam-bot
 pip install -r requirements.txt
 
-python main.py```
+python main.py
 
-
-Feel free to customize this template according to your bot's specific implementation and requirements!
 
